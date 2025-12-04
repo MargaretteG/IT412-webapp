@@ -1,0 +1,13 @@
+{
+  "name": "it412-webapp",
+  "version": "1.0.0",
+  "description": "This simple web app is my final project for Platform Technologies. It is a back-end application that is deployed into a PaaS provider(Render).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
